@@ -1,4 +1,4 @@
-# AirBNB_Analysis_with_SQL_Tableau
+# AirBNB_Analysis_with_SQL_PowerBI
 Project Summary
 
 BUSINESS PROBLEM OVERVIEW
